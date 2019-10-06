@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/abc.png");
+    background-size: 34%;
+}
+
+h1 {
+    background-color: greenyellow;
+    color: blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+    font-size: 45px;
+    height: 85px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-style: groove;
+    border-color: black;
+    
+}
+
+.stats {
+    border-style: solid;
+    background-color: rgb(255, 0, 0);
+    float: left;
+    width: 32%;
+    height: 90px;
+    border-color: #4aaaa5;
+    margin-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cyan;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.attempts {
+    padding-left: 500px;
+    padding-top: 75px;
+    height: 100px;
+    width: 83%;
+    background-color: rgb(255, 0, 255);
+    display: inline-block;
+    text-align: left;
+    border-color: plum;
+    border-style: ridge;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+
+}
